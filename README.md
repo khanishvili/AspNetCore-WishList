@@ -122,7 +122,3 @@ __Note:__ this isn't the only way to accomplish this, however; this is what the 
 				- This action should get the `Item` to be deleted from `_context.Items` then use `_context.Items`
 				- This action should remove the `Item` with the matching `Id` property from `_context.Items`. (_Note_ : Don't forget to `SaveChanges`!)
 				- This action should `RedirectToAction` to the `Index` action.
-
-## What Now?
-
-Now is a good time to continue on with other [ASP.NET Core courses](https://app.pluralsight.com/library/search?q=asp+net+core) to expand your understanding of the ASP.NET Core framework. You could also take a look at the [Microsoft Azure for Developers](https://app.pluralsight.com/paths/skills/microsoft-azure-for-developers) path as Azure is often used with ASP.NET Core applications.
